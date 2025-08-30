@@ -1,0 +1,25 @@
+.popup-container {
+  width: 200px;
+  padding: 15px;
+  font-family: Arial, sans-serif;
+}
+
+.popup-container h1 {
+  font-size: 16px;
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.popup-container p {
+  font-size: 13px;
+  color: #666;
+  margin: 0 0 10px 0;
+}
+
+.status {
+  padding: 5px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  font-size: 12px;
+  text-align: center;
+}
