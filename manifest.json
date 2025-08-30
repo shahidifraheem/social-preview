@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Social Preview Pro",
+    "name": "Social Preview",
     "version": "1.0",
-    "description": "Preview social media cards for links on hover",
+    "description": "A Chrome extension that shows beautiful social media preview cards when you hover over links.",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
